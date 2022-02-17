@@ -1,0 +1,14 @@
+h1 {
+    font-family: 'Lato', sans-serif;
+}
+
+p, a {
+    font-family: 'Open Sans', sans-serif;
+
+}
+p {
+    margin-bottom: 30px;
+    font-size: 14px;
+    color: #3e3c3b;
+    
+}
